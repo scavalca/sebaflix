@@ -14,7 +14,7 @@ function App() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"
+          "Le film retrace de nombreuses parties de la vie d'Édith Piaf, telles que son enfance, sa gloire, ses amis, ses coups de gueule, ses joies et ses peines, ses succès et les drames de sa vie, sa disparition, etc."
         }
       />
 
